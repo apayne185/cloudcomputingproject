@@ -43,8 +43,8 @@ after this time has passed
 
 ## Contributors
 
-Anna Payne
-Aya Yasmine Belloum
-Makenna Warner 
-India Sanchez
-Isabel de Valenzuela 
+- Anna Payne
+- Aya Yasmine Belloum
+- Makenna Warner 
+- India Sanchez
+- Isabel de Valenzuela 
