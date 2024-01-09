@@ -39,3 +39,12 @@ Several functions are defined:
 - user_actions(): Displays user actions (view valve status).
 - sleep_function(sleep_duration): Sleeps for a specified duration meaning that the status of the valves is only check 
 after this time has passed
+
+
+## Contributors
+
+Anna Payne
+Aya Yasmine Belloum
+Makenna Warner 
+India Sanchez
+Isabel de Valenzuela 
